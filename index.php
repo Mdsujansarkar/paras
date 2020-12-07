@@ -230,33 +230,51 @@
             </div>
             <div class="col-md-4">
                <a data-fancybox href="https://www.youtube.com/watch?v=6QtN4TL44bk">
-                  <img src="images/youtube_image/you_one.png" width="200px" height="150px">
+                  
+                  <div class="video-thumbnail">
+                     <img src="images/youtube_image/you_one.png" width="100%" height="150px">
+                  </div>
                </a>
             </div>
             <div class="col-md-4">
-               <iframe
-                  width="100%" height="auto" src="https://www.youtube.com/embed/mCH_PzcOcoE" frameborder="0" allowfullscreen>
-               </iframe>
+               <a data-fancybox href="https://www.youtube.com/watch?v=mCH_PzcOcoE">
+                  
+                  <div class="video-thumbnail">
+                     <img src="images/youtube_image/you_two.png" width="100%" height="150px">
+                  </div>
+               </a>
             </div>
             <div class="col-md-4">
-               <iframe
-                  width="100%" height="auto" src="https://www.youtube.com/embed/N8Lkm_0zW68" frameborder="0" allowfullscreen>
-               </iframe>
+               <a data-fancybox href="https://www.youtube.com/watch?v=W_pW--KYEfo">
+                  
+                  <div class="video-thumbnail">
+                     <img src="images/youtube_image/you_three.png" width="100%" height="150px">
+                  </div>
+               </a>
             </div>
             <div class="col-md-4">
-               <iframe
-                  width="100%" height="auto" src="https://www.youtube.com/embed/W_pW--KYEfo" allowfullscreen>
-               </iframe>
+               <a data-fancybox href="https://www.youtube.com/watch?v=oGR5jRfrOVQ">
+                  
+                  <div class="video-thumbnail">
+                     <img src="images/youtube_image/you_four.png" width="100%" height="150px">
+                  </div>
+               </a>
             </div>
             <div class="col-md-4">
-               <iframe
-                  width="100%" height="auto" src="https://www.youtube.com/embed/E2CDC0R9T54" frameborder="0" allowfullscreen>
-               </iframe>
+               <a data-fancybox href="https://www.youtube.com/watch?v=csyFkmMWIV8">
+                  
+                  <div class="video-thumbnail">
+                     <img src="images/youtube_image/you_six.png" width="100%" height="150px">
+                  </div>
+               </a>
             </div>
             <div class="col-md-4">
-               <iframe
-                  width="100%" height="auto" src="https://www.youtube.com/embed/h62X7TNfrUQ" allowfullscreen>
-               </iframe>
+               <a data-fancybox href="https://www.youtube.com/watch?v=6QtN4TL44bk">
+                  
+                  <div class="video-thumbnail">
+                     <img src="images/youtube_image/you_five.png" width="100%" height="150px">
+                  </div>
+               </a>
             </div>
          </div>
       </section>
@@ -274,8 +292,9 @@
                <div class="col-md-3">
                   <div class="image-wrapper">
                      <a href="images/gallery/image.png">
-                     <img src="images/gallery/image.png" alt="" class="img-responsive">
+                     <img src="images/gallery/image.png" alt="" class="img-responsive" />
                      </a>
+                     
                   </div>
                </div>
                <div class="col-md-3">
@@ -424,7 +443,7 @@
         <div class="row">
           <div class="col-sm-12 col-md-6">
             <h6>About</h6>
-            <p class="text-justify">Scanfcode.com <i>CODE WANTS TO BE SIMPLE </i> is an initiative  to help the upcoming programmers with the code. Scanfcode focuses on providing the most efficient code or snippets as the code wants to be simple. We will help programmers build up concepts in different programming languages that include C, C++, Java, HTML, CSS, Bootstrap, JavaScript, PHP, Android, SQL and Algorithm.</p>
+            <p class="text-justify">Sheikh Fazle Shams Parash is a well-known professor in English at the Brac University in Dhaka who turned into a politician holding the position of chairman of Bangladesh Awami Jubo League in 2019. The Jubo league faces crises across the country after spreading out the corruption of some top Jubo league leaders.</p>
           </div>
 
           <div class="col-xs-6 col-md-3">
@@ -456,7 +475,7 @@
         <div class="row">
           <div class="col-md-8 col-sm-6 col-xs-12">
             <p class="copyright-text">Copyright &copy; 2017 All Rights Reserved by 
-         <a href="#">Scanfcode</a>.
+         <a href="#">#</a>.
             </p>
           </div>
 

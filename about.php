@@ -82,46 +82,6 @@
                            </div>
                         </div>
                      </div>
-                     <div class="carousel-item-a intro-item bg-image" style="background-image: url(images/slider/poro-2.jpg)">
-                        <div class="overlay overlay-a"></div>
-                        <div class="intro-content display-table">
-                           <div class="table-cell">
-                              <div class="silder-fotter">
-                                 <div class="container">
-                                    <div class="row">
-                                       <div class="col-lg-12">
-                                          <div class="intro-body">
-                                             <p class="intro-title-top"><a href="">
-                                                </a>
-                                             </p>
-                                          </div>
-                                       </div>
-                                    </div>
-                                 </div>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                     <div class="carousel-item-a intro-item bg-image" style="background-image: url(images/slider/poros-3.jpg)">
-                        <div class="overlay overlay-a"></div>
-                        <div class="intro-content display-table">
-                           <div class="table-cell">
-                              <div class="silder-fotter">
-                                 <div class="container">
-                                    <div class="row">
-                                       <div class="col-lg-12">
-                                          <div class="intro-body">
-                                             <p class="intro-title-top"><a href="">
-                                                </a>
-                                             </p>
-                                          </div>
-                                       </div>
-                                    </div>
-                                 </div>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
                   </div>
                   <!--/ Carousel end /-->
                </div>
@@ -155,9 +115,7 @@
                            <p class="content-d color-text-a">
                               Sheikh Fazle Shams Parash is a well-known professor in English at the Brac University in Dhaka who turned into a politician holding the position of chairman of Bangladesh Awami Jubo League in 2019. The Jubo league faces crises across the country after spreading out the corruption of some top Jubo league leaders.
                            </p>
-                           </p>
                         </div>
-                        <a href="#" class="myButton">Read More</a>
                      </div>
                   </div>
                </div>
@@ -165,52 +123,30 @@
          </div>
       </section>
       <!--/ Agent Single End /-->
-      <!--/ Video Star /-->
-      <section class="section-services">
-         <div class="container-fluid">
-         <div class="row">
-            <div class="col-md-12">
-               <div class="context">
-                  <h1>VISION 2021-2041</h1>
-                  <p>Prime Minister Sheikh Hasina, with the help of her ICT Affairs Advisor Sajeeb Wazed, unveiled the Awami League's 'Digital Bangladesh' aspiration in 2008. The plan was to transform Bangladesh into a technologically advanced nation by the year 2021. For the First time, such an ambitious vision was incorporated into the electoral manifesto of any political party. This vision was put into motion right after the Awami League formed the Government following a landslide electoral victory in December 2008.</p>
-               </div>
-               <div class="area" >
-                  <ul class="circles">
-                     <li></li>
-                     <li></li>
-                     <li></li>
-                     <li></li>
-                     <li></li>
-                     <li></li>
-                     <li></li>
-                     <li></li>
-                     <li></li>
-                     <li></li>
-                  </ul>
-               </div >
-            </div>
-         </div>
-      </section>
       <section class="agent-single" style="background-image:url('images/background/watercolor.png')">
          <div class="container">
          <div class="row">
             <div class="col-sm-12">
                <div class="row">
-                  <div class="col-md-7 section-md-t3">
+                  <div class="col-md-6 section-md-t3">
+                     <div class="agent-info-box1 agent-info-box2">
+                        <div class="agent-contents mb-3"  style="padding:20px 0">
+                           <h3>ADJUNCT FACULTY of ENGLISH LANGUAGE & LITERATURE</h3>
+                           <p class="content-d color-text-a">
+                              TESOL Certified (Ontario) professional teacher of English language and Literature. Innovative and devoted scholar of English composition and literature, offering ten years of teaching experience to university undergraduates and mature professional learners. Possess thorough and methodological research abilities, demonstrated by publication of three research papers in peer-reviewed scholarly journals. Notably presented on academic writing at the globally recognized EATAW conference in UK. <br />
+                              Characterized as a skilled educational administrator, facilitator, and academic coordinator with demonstrated expertise in curriculum design and development. Scholar in the field of composition, marked by rapid growth and involvement in facilitating and mentoring. 
+                           </p>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="col-md-6">
                      <div class="agent-info-box1 agent-info-box2">
                         <div class="agent-contents mb-3"  style="padding:20px 0">
                            <h3>Mujib Borsho Celebration</h3>
                            <p class="content-d color-text-a">
                               The government of Bangladesh has announced the commemoration of 2020–2021 as the Mujib Year (Bengali: মুজিব বর্ষ) on the occasion of the centennial birth anniversary of the founding leader of the country, Sheikh Mujibur Rahman
                            </p>
-                           </p>
                         </div>
-                        <a href="https://en.wikipedia.org/wiki/Mujib_Year" target="_blank" class="myButton">Read More</a>
-                     </div>
-                  </div>
-                  <div class="col-md-5">
-                     <div class="mujib-image">
-                        <img src="images/favcon/row-image-Mujib100.png">
                      </div>
                   </div>
                </div>
@@ -260,163 +196,9 @@
          </div>
       </section>
       <!-- image gallery --> 
-      <section id="work">
-         <div class="content-box">
-            <div class="content-title wow bounceInUp" data-wow-duration="2s" data-wow-delay=".5s">
-               <h1 class="text-center">GALLERY</h1>
-               <p class="text-center middle">Our great moment Our great momentOur great momentOur great momentOur great momentOur great momentOur great momentOur great momentOur great momentOur great momentOur great momentOur great momentOur great momentOur great momentOur great momentOur great momentOur great moment</p>
-               <div class="content-title-underline-heading"></div>
-            </div>
-         </div>
-         <div class="container-fluid">
-            <div class="row no-mergin" id="lcl_elems_wrapper">
-               <div class="col-md-3">
-                  <div class="image-wrapper">
-                     <a href="images/gallery/image.png">
-                     <img src="images/gallery/image.png" alt="" class="img-responsive">
-                     </a>
-                  </div>
-               </div>
-               <div class="col-md-3">
-                  <div class="image-wrapper">
-                     <a href="images/gallery/image2.jpg">
-                     <img src="images/gallery/image2.jpg" alt="" class="img-responsive">
-                     </a>
-                  </div>
-               </div>
-               <div class="col-md-3">
-                  <div class="image-wrapper">
-                     <a href="images/gallery/image4.jpg">
-                     <img src="images/gallery/image4.jpg" alt="" class="img-responsive">
-                     </a>
-                  </div>
-               </div>
-               <div class="col-md-3">
-                  <div class="image-wrapper">
-                     <a href="images/gallery/image5.jpg">
-                     <img src="images/gallery/image5.jpg" alt="" class="img-responsive">
-                     </a>
-                  </div>
-               </div>
-               <div class="col-md-3">
-                  <div class="image-wrapper">
-                     <a href="images/gallery/image6.png">
-                     <img src="images/gallery/image6.png" alt="" class="img-responsive">
-                     </a>
-                  </div>
-               </div>
-               <div class="col-md-3">
-                  <div class="image-wrapper">
-                     <a href="images/gallery/image7.jpg">
-                     <img src="images/gallery/image7.jpg" alt="" class="img-responsive">
-                     </a>
-                  </div>
-               </div>
-               <div class="col-md-3">
-                  <div class="image-wrapper">
-                     <a href="images/gallery/image8.jpg">
-                     <img src="images/gallery/image8.jpg" alt="" class="img-responsive">
-                     </a>
-                  </div>
-               </div>
-               <div class="col-md-3">
-                  <div class="image-wrapper">
-                     <a href="images/gallery/image9.jpg">
-                     <img src="images/gallery/image9.jpg" alt="" class="img-responsive">
-                     </a>
-                  </div>
-               </div>
-            </div>
-         </div>
-      </section>
+      
       <!-- Video -->
-      <!-- Video -->
-      <section class="agent-single" style="background-image:url('images/background/leaves.png')">
-         <div class="container">
-         <div class="row">
-            <div class="col-md-12">
-               <div class="main-heading">
-                  <h1 class="text-center">Good News</h1>
-                  <p class="text-center">Our great moment Our great momentOur great momentOur great momentOur great momentOur great momentOur great momentOur great momentOur great momentOur great momentOur great momentOur great momentOur great momentOur great momentOur great momentOur great momentOur great moment</p>
-               </div>
-            </div>
-            <div class="col-md-4">
-               <div class="social-content">
-                  <div class="social-header">
-                     <h6 class="text-center">OUR GREAT MOMENT OUR</h6>
-                  </div>
-                  <div class="social-image">
-                     <a href="images/gallery/image8.jpg">
-                     <img src="images/gallery/image8.jpg" alt="" class="img-responsive">
-                     </a>
-                  </div>
-               </div>
-            </div>
-            <div class="col-md-4">
-               <div class="social-content">
-                  <div class="social-header">
-                     <h6>OUR GREAT MOMENT OUR</h6>
-                  </div>
-                  <div class="social-image">
-                     <a href="images/gallery/image8.jpg">
-                     <img src="images/gallery/image8.jpg" alt="" class="img-responsive">
-                     </a>
-                  </div>
-               </div>
-            </div>
-            <div class="col-md-4">
-               <div class="social-content">
-                  <div class="social-header">
-                     <h6>OUR GREAT MOMENT OUR</h6>
-                  </div>
-                  <div class="social-image">
-                     <a href="images/gallery/image8.jpg">
-                     <img src="images/gallery/image8.jpg" alt="" class="img-responsive">
-                     </a>
-                  </div>
-               </div>
-            </div>
-            <div class="col-md-4">
-               <div class="social-content">
-                  <div class="social-header">
-                     <h6 class="text-center">OUR GREAT MOMENT OUR</h6>
-                  </div>
-                  <div class="social-image">
-                     <a href="images/gallery/image8.jpg">
-                     <img src="images/gallery/image8.jpg" alt="" class="img-responsive">
-                     </a>
-                  </div>
-               </div>
-            </div>
-            <div class="col-md-4">
-               <div class="social-content">
-                  <div class="social-header">
-                     <h6>OUR GREAT MOMENT OUR</h6>
-                  </div>
-                  <div class="social-image">
-                     <a href="images/gallery/image8.jpg">
-                     <img src="images/gallery/image8.jpg" alt="" class="img-responsive">
-                     </a>
-                  </div>
-               </div>
-            </div>
-            <div class="col-md-4">
-               <div class="social-content">
-                  <div class="social-header">
-                     <h6>OUR GREAT MOMENT OUR</h6>
-                  </div>
-                  <div class="social-image">
-                     <a href="images/gallery/image8.jpg">
-                     <img src="images/gallery/image8.jpg" alt="" class="img-responsive">
-                     </a>
-                  </div>
-               </div>
-            </div>
-            <div class="col-md-12  text-center">
-               <a href="#" class="myButton news-button">Read More</a>
-            </div>
-         </div>
-      </section>
+
         <!-- Site footer -->
     <footer class="site-footer">
       <div class="container">
