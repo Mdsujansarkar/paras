@@ -12,7 +12,6 @@
       <link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
       <link href="lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
       <link href="lib/animate/animate.min.css" rel="stylesheet">
-      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" />
       <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
       <link rel="stylesheet" href="css/lc_lightbox.css" />
       <link rel="stylesheet" href="skins/minimal.css" />
@@ -38,7 +37,7 @@
                      <a class="nav-link" href="about.php">সম্পর্কে</a>
                      </li>-->
                   <li class="nav-item">
-                     <a class="nav-link" href="about.php">ABOUT</a>
+                     <a class="nav-link" href="political-resume.php">ABOUT</a>
                   </li>
                   <li class="nav-item">
                      <a class="nav-link" href="achievements.php">NEWS</a>
@@ -229,9 +228,9 @@
                </div>
             </div>
             <div class="col-md-4">
-               <a data-fancybox href="https://www.youtube.com/watch?v=6QtN4TL44bk">
-                  <img src="images/youtube_image/you_one.png" width="200px" height="150px">
-               </a>
+               <iframe
+                  width="100%" height="auto" src="https://www.youtube.com/embed/6QtN4TL44bk" allowfullscreen>
+               </iframe>
             </div>
             <div class="col-md-4">
                <iframe
@@ -487,7 +486,6 @@
       </script>
       <script src="js/main.js"></script>
       <script src="js/lc_lightbox.lite.js" type="text/javascript"></script>
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js"></script>
       <script type='text/javascript'>
          $(document).ready(function() {
              var $obj = lc_lightbox('#lcl_elems_wrapper a');
